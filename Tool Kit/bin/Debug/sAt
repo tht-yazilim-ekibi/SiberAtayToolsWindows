@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Analysis -->
+  <tools>
+    <tool>
+      <group>Analysis</group>
+      <child_group>0</child_group>
+      <name>Black Olly 1.2</name>
+      <tx>OllyDBG</tx>
+      <img>Tools\icn\Analysis\Black Olly.ico</img>
+      <loc>Tools\Analysis\OllyDBG\1.10\Black_Olly 1.2\Black_Olly.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Analysis</group>
+      <child_group>0</child_group>
+      <name>Black Olly 2</name>
+      <tx>OllyDBG</tx>
+      <img>Tools\icn\Analysis\Black Olly.ico</img>
+      <loc>Tools\Analysis\OllyDBG\2\2.0\Black_Olly.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Analysis</group>
+	  <child_group>0</child_group>
+      <name>X64 Dbg</name>
+      <tx></tx>
+      <img>Tools\Analysis\x64_dbg\icon.ico</img>
+      <loc>Tools\Analysis\x64_dbg\x96dbg.exe</loc>
+    </tool>
+    
+    <tool>
+      <group>Analysis</group>
+      <child_group>0</child_group>
+      <name>IDA 7.0</name>
+      <tx></tx>
+      <img>Tools\Analysis\IDA 7.0\idaicon.ico</img>
+      <loc>Tools\Analysis\IDA 7.0\ida.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Analysis</group>
+      <child_group>0</child_group>
+      <name>dnSpy</name>
+      <tx></tx>
+      <img>Tools\Analysis\dnSpy\dnspyicon.ico</img>
+      <loc>Tools\Analysis\dnSpy\dnSpy.exe</loc>
+    </tool>
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Android -->
+
+    <tool>     
+      <group>Android</group>
+	  <child_group>0</child_group>
+      <name>APK Tools v3.50</name>
+      <tx></tx>
+      <img>Tools\icn\Android\APK Tools.ico</img>
+      <loc>Tools\Android\APK Tools v3.50\APK Tools.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Android</group>
+	  <child_group>0</child_group>
+      <name>ApkIDE</name>
+      <tx></tx>
+      <img>Tools\icn\Android\ApkIDE.ico</img>
+      <loc>Tools\Android\ApkIDE\dnSpy.Console.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Android</group>
+      <child_group>0</child_group>
+      <name>Android Cracker Kit v0.2</name>
+      <tx></tx>
+      <img>Tools\icn\Android\ACK.ico</img>
+      <loc>Tools\Android\Android Cracker Kit v0.2\ACK.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Android</group>
+      <child_group>0</child_group>
+      <name>Uret Android Reverser Toolkit v1.6</name>
+      <tx></tx>
+      <img>Tools\icn\Android\Uret.ico</img>
+      <loc>Tools\Android\Uret Android Reverser Toolkit v1.6\Uret Android Reverser Toolkit v1.6.exe</loc>
+    </tool>
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Decompiler -->
+
+
+    <tool>
+      <group>Decompiler</group>
+      <child_group>0</child_group>
+      <name>Reflector</name>
+      <tx></tx>
+      <img>Tools\icn\Decompiler\Reflector.ico</img>
+      <loc>Tools\Decompiler\.NET Reflector 9.0\Reflector.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Decompiler</group>
+      <child_group>0</child_group>
+      <name>Jar explorer</name>
+      <tx></tx>
+      <img>Tools\icn\Decompiler\JarExplorer.ico</img>
+      <loc>Tools\Decompiler\Jar explorer\JarExplorer.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Decompiler</group>
+      <child_group>0</child_group>
+      <name>VB Decompiler</name>
+      <tx></tx>
+      <img>Tools\icn\Decompiler\VB Decompiler.ico</img>
+      <loc>Tools\Decompiler\VB.Decompiler.Pro.v10.1\VB Decompiler.exe</loc>
+    </tool>
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Detector -->
+
+    <tool>
+      <group>Detector</group>
+      <child_group>0</child_group>
+      <name>die</name>
+      <tx></tx>
+      <img>Tools\icn\Detector\die.ico</img>
+      <loc>Tools\Detector\DIE_1.01_win\die.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Detector</group>
+      <child_group>0</child_group>
+      <name>exeinfope</name>
+      <tx></tx>
+      <img>Tools\icn\Detector\exeinfope.ico</img>
+      <loc>Tools\Detector\ExeInfoPe\exeinfope.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Detector</group>
+      <child_group>0</child_group>
+      <name>PEiD</name>
+      <tx></tx>
+      <img>Tools\icn\Detector\PEiD.ico</img>
+      <loc>Tools\Detector\DIE_1.01_win\PEiD.exe</loc>
+    </tool>
+    
+    <tool>
+      <group>Detector</group>
+      <child_group>0</child_group>
+      <name>RDG Packer Detector</name>
+      <tx></tx>
+      <img>Tools\icn\Detector\RDG.ico</img>
+      <loc>Tools\Detector\RDG Packer Detector v0.7.6.2017\RDG Packer Detector v0.7.6.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Detector</group>
+      <child_group>0</child_group>
+      <name>die</name>
+      <tx></tx>
+      <img>Tools\icn\Detector\Protection_ID.ico</img>
+      <loc>Tools\Detector\ProtectionId.685.December.2016\Protection_ID.eXe</loc>
+    </tool>
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Hex -->
+
+    <tool>
+      <group>Hex</group>
+      <child_group>0</child_group>
+      <name>AXE3</name>
+      <tx></tx>
+      <img>Tools\icn\Hex\AXE.ico</img>
+      <loc>Tools\Hex\AXE3\AXE.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Hex</group>
+      <child_group>0</child_group>
+      <name>Hex Workshop v6.8</name>
+      <tx></tx>
+      <img>Tools\icn\Hex\HWorks64.ico</img>
+      <loc>Tools\Hex\Hex Workshop v6.8\x64\HWorks64.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Hex</group>
+      <child_group>0</child_group>
+      <name>winhex19.3</name>
+      <tx></tx>
+      <img>Tools\icn\Hex\winhex.ico</img>
+      <loc>Tools\Hex\winhex19.3\winhex.exe</loc>
+    </tool>
+
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Packers -->
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>ASPACK 2.42</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\ASPack.ico</img>
+      <loc>Tools\Packers\ASPACK 2.42\ASPack.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>BoxedAppPacker</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\BoxedAppPacker.ico</img>
+      <loc>Tools\Packers\BoxedAppPacker\BoxedAppPacker.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>Code Virtualizer v2.1.1.0</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\Virtualizer.ico</img>
+      <loc>Tools\Packers\Code.Virtualizer.v2.1.1.0\Virtualizer.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>Crypto Obfuscator</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\CryptoObfuscator.ico</img>
+      <loc>Tools\Packers\CryptoObfuscator Enterprise 2015 Build 170126\CryptoObfuscator.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>Mpress</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\MpressGUI_v1.0.ico</img>
+      <loc>Tools\Packers\Mpress\MpressGUI_v1.0.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>PECompact</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\pec2gui.ico</img>
+      <loc>Tools\Packers\PECompact\pec2gui.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Packers</group>
+      <child_group>0</child_group>
+      <name>UPX 3.94</name>
+      <tx></tx>
+      <img>Tools\icn\Packers\UPXShell.ico</img>
+      <loc>Tools\Packers\UPX 3.94\UPXShell.exe</loc>
+    </tool>
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Patcher -->
+
+    <tool>
+      <group>Patcher</group>
+      <child_group>0</child_group>
+      <name>AT4RE Patcher</name>
+      <tx></tx>
+      <img>Tools\icn\Patcher\AT4RE Patcher.ico</img>
+      <loc>Tools\Patcher\AT4RE Patcher v0.7.5\AT4RE Patcher.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Patcher</group>
+      <child_group>0</child_group>
+      <name>DotNet Patcher</name>
+      <tx></tx>
+      <img>Tools\icn\Patcher\DotNetPatcher.ico</img>
+      <loc>Tools\Patcher\DotNetPatcher\DotNetPatcher.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Patcher</group>
+      <child_group>0</child_group>
+      <name>dup2</name>
+      <tx></tx>
+      <img>Tools\icn\Patcher\dup2.ico</img>
+      <loc>Tools\Patcher\dUP_v2.26.1\dup2.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Patcher</group>
+      <child_group>0</child_group>
+      <name>Keygen Maker</name>
+      <tx></tx>
+      <img>Tools\icn\Patcher\keygenmak.ico</img>
+      <loc>Tools\Patcher\Keygen Maker 0.71c\keygenmak.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Patcher</group>
+      <child_group>0</child_group>
+      <name>Key Genning Tool</name>
+      <tx></tx>
+      <img>Tools\icn\Patcher\KGNTool2.ico</img>
+      <loc>Tools\Patcher\KeyGenning Tool 2.0\KGNTool2.exe</loc>
+    </tool>
+    
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Petools -->
+
+    <tool>
+      <group>Petools</group>
+      <child_group>0</child_group>
+      <name>CFF Explorer</name>
+      <tx></tx>
+      <img>Tools\icn\Petools\CFF Explorer.ico</img>
+      <loc>Tools\Petools\CFFExplorer\CFF Explorer.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Petools</group>
+      <child_group>0</child_group>
+      <name>Pe Explorer</name>
+      <tx></tx>
+      <img>Tools\icn\Petools\pexplorer.ico</img>
+      <loc>Tools\Petools\Pe Explorer 1.99 R6\pexplorer.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Petools</group>
+      <child_group>0</child_group>
+      <name>PPEE(puppy)</name>
+      <tx></tx>
+      <img>Tools\icn\Petools\PPEE.ico</img>
+      <loc>Tools\Petools\PPEE(puppy) 1.10\PPEE.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Petools</group>
+      <child_group>0</child_group>
+      <name>Resource Hacker</name>
+      <tx></tx>
+      <img>Tools\icn\Petools\ResourceHacker.ico</img>
+      <loc>Tools\Petools\Resource Hacker\ResourceHacker.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Petools</group>
+      <child_group>0</child_group>
+      <name>Resource Tuner</name>
+      <tx></tx>
+      <img>Tools\icn\Petools\restuner.ico</img>
+      <loc>Tools\Petools\Resource Tuner\restuner.exe</loc>
+    </tool>
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Protector -->
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Agile DotNet</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\AgileDotNet.ico</img>
+      <loc>Tools\Protector\Agile .NET v6.3.0.5\AgileDotNet.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Confuser Ex</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\ConfuserEx.ico</img>
+      <loc>Tools\Protector\ConfuserEx v0.2.2-Modded\bin\ConfuserEx.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Droid Guard</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\DroidGuardGUI.ico</img>
+      <loc>Tools\Protector\DroidGuard_v1.0.0.5\DroidGuardGUI.bat</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>INTELLILOCK</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\INTELLILOCK.ico</img>
+      <loc>Tools\Protector\Eziriz.IntelliLock 2.0.0.0\INTELLILOCK.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>dotNET Reactor</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\dotNET_Reactor.ico</img>
+      <loc>Tools\Protector\Eziriz.NetReactor 5.0.0.0\dotNET_Reactor.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Private exe Protector</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\Private exe Protector.ico</img>
+      <loc>Tools\Protector\Private exe Protector 5.0.0.5 [Cracked by #PCR#]\Private exe Protector.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Safengine Protector</name>
+      <tx>Shielden</tx>
+      <img>Tools\icn\Protector\Shielden.ico</img>
+      <loc>Tools\Protector\Safengine Protector V.2.3.9.0\Shielden.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Software Passport</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\SoftwarePassport.ico</img>
+      <loc>Tools\Protector\SoftwarePassport\SoftwarePassport.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>The Enigma Protector</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\Enigma32g.ico</img>
+      <loc>Tools\Protector\The Enigma Protector\Enigma32g.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Themida</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\Themida64.ico</img>
+      <loc>Tools\Protector\Themida.2.4.6.0.x86.x64_Retail_Cracked_upload.by.Avi_RE\Themida64.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>VMProtect Ultimate</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\VMProtect.ico</img>
+      <loc>Tools\Protector\VMProtect Ultimate\VMProtect.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>Win License</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\WinLicense_64_Kissy.ico</img>
+      <loc>Tools\Protector\WinLicense.2.4.5.x32.x64.uploaded.by.Avi_RE\WinLicense_64_Kissy.exe</loc>
+    </tool>
+    
+    <tool>
+      <group>Protector</group>
+      <child_group>0</child_group>
+      <name>yP 1.03</name>
+      <tx></tx>
+      <img>Tools\icn\Protector\yP.ico</img>
+      <loc>Tools\Protector\yP1.03\yP.exe</loc>
+    </tool>
+    
+    
+    
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Unpacker -->
+
+    <!-- /////////////////////////// AORE -->
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>AORE</name>
+      <tx>AORE</tx>
+      <img>Tools\icn\folder.ico</img>
+      <loc></loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>AORE</child_group>
+      <name>AoRE Unpacker 0.4</name>
+      <tx>AORE</tx>
+      <img>Tools\icn\Unpacker\AORE\upx_unpacker.ico</img>
+      <loc>Tools\Unpacker\AORE\AoRE Unpacker 0.4\AoRE_Unpacker.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>AORE</child_group>
+      <name>Un Themida 2.0</name>
+      <tx>AORE</tx>
+      <img>Tools\icn\Unpacker\AORE\upx_unpacker.ico</img>
+      <loc>Tools\Unpacker\AORE\AoRE UnThemida 2.0\UnThemida 2.0.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>AORE</child_group>
+      <name>Un Themida 3.0</name>
+      <tx>AORE</tx>
+      <img>Tools\icn\Unpacker\AORE\upx_unpacker.ico</img>
+      <loc>Tools\Unpacker\AORE\UNTMD-3.0.0\UnThemida 3.0.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>AORE</child_group>
+      <name>upx unpacker</name>
+      <tx>AORE</tx>
+      <img>Tools\icn\Unpacker\AORE\upx_unpacker.ico</img>
+      <loc>Tools\Unpacker\AORE\upx_unpacker.exe</loc>
+    </tool>
+
+
+    
+    <!-- /////////////////////////// Armadillo -->
+    
+
+    
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>Armadillo</name>
+      <tx>Armadillo</tx>
+      <img>Tools\icn\folder.ico</img>
+      <loc></loc>
+    </tool>
+    
+    <tool>
+      <group>Unpacker</group>
+      <child_group>Armadillo</child_group>
+      <name>Armageddon</name>
+      <tx>Armadillo</tx>
+      <img>Tools\icn\Unpacker\Armadillo\Armageddon.ico</img>
+      <loc>Tools\Unpacker\Armadillo\Armageddon_v2.2\Armageddon.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>Armadillo</child_group>
+      <name>Dillo DIE v1.6</name>
+      <tx>Armadillo</tx>
+      <img>Tools\icn\Unpacker\Armadillo\DllLoader.ico</img>
+      <loc>Tools\Unpacker\Armadillo\DilloDie1.6\DilloDIE v1.6.exe</loc>
+    </tool>
+
+
+
+    <!-- /////////////////////////// ASPack -->
+
+
+    
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>ASPack</name>
+      <tx>ASPack</tx>
+      <img>Tools\icn\folder.ico</img>
+      <loc></loc>
+    </tool>
+    
+    <tool>
+      <group>Unpacker</group>
+      <child_group>ASPack</child_group>
+      <name>ASPack UnPacker 1.13</name>
+      <tx>ASPack</tx>
+      <img>Tools\icn\Unpacker\ASPack\ASPack UnPacker 1.13.ico</img>
+      <loc>Tools\Unpacker\ASPack\ASPack UnPacker 1.13\ASPack UnPacker 1.13.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>ASPack</child_group>
+      <name>WASPACK</name>
+      <tx>ASPack</tx>
+      <img>Tools\icn\Unpacker\ASPack\WASPACK.ico</img>
+      <loc>Tools\Unpacker\ASPack\Aspack.stripper\WASPACK.exe</loc>
+    </tool>
+    
+    <tool>
+      <group>Unpacker</group>
+      <child_group>ASPack</child_group>
+      <name>Aspack Die</name>
+      <tx>ASPack</tx>
+      <img>Tools\icn\Unpacker\ASPack\AspackDie.ico</img>
+      <loc>Tools\Unpacker\ASPack\ASPackDie\AspackDie.exe</loc>
+    </tool>
+
+
+
+    <!-- /////////////////////////// ASProtect Unpacker -->      
+    
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>DecomAS</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\ASProtect Unpacker\DecomAS.ico</img>
+      <loc>Tools\Unpacker\ASProtect Unpacker\DecomAS.exe</loc>
+    </tool>
+
+
+    <!-- /////////////////////////// de4dot -->
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>de4dot</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\de4dot\de4dot.ico</img>
+      <loc>Tools\Unpacker\de4dot\de4dot.exe</loc>
+    </tool>
+
+    
+    <!-- /////////////////////////// ilprotectorunpacker -->
+
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>IL Protector Unpacker 2</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\ilprotectorunpacker\ILProtectorUnpacker2.ico</img>
+      <loc>Tools\Unpacker\ilprotectorunpacker\ILProtectorUnpacker2.exe</loc>
+    </tool>
+
+
+    <!-- /////////////////////////// NETUnpack -->
+
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>NET Unpack</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\NETUnpack\NETUnpack.ico</img>
+      <loc>Tools\Unpacker\NETUnpack\NETUnpack.exe</loc>
+    </tool>
+
+
+
+    <!-- /////////////////////////// RL!de -->
+
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>0</child_group>
+      <name>RL!de</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\folder.ico</img>
+      <loc></loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deASPack 2.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deASPack 2.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deBeRoEXEPacker</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deBeRoEXEPacker.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deCryptoPeProtector 0.9.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deCryptoPeProtector 0.9.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deExeFog</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deExeFog.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deFSG 1.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deFSG 1.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deFSG 2.0</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deFSG 2.0.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deGoatPeMutilator 1.6</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deGoatPeMutilator 1.6.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deHmimysPacker</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deHmimysPacker.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deMEW 1.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deMEW 1.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deNPack</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deNPack.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deNsPack 3.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deNsPack 3.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!dePacker</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!dePacker.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!dePackMan 1.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!dePackMan 1.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!dePeCompact 2.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!dePeCompact 2.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!dePeX 0.99</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!dePeX 0.99.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deShrinkWrap 1.4</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deShrinkWrap 1.4.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!detELock 0.9x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!detELock 0.9x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deUPX 1.x-2.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deUPX 1.x-2.x.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deWinUPack</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deWinUPack.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>RL!deYC</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\RL!deYC.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Unpacker</group>
+      <child_group>RL!de</child_group>
+      <name>UnNsPack 3.x</name>
+      <tx>RL!de</tx>
+      <img>Tools\icn\Unpacker\RL!de\RL!deFSG 2.0.ico</img>
+      <loc>Tools\Unpacker\RL!de\UnNsPack 3.x.exe</loc>
+    </tool>
+
+
+
+    <!-- /////////////////////////// Universal Unpacker Team-REPT -->
+
+
+    <tool>
+      <group>Universal Unpacker Team-REPT</group>
+      <child_group>0</child_group>
+      <name>Universal Unpacker Team-REPT</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\Universal Unpacker Team-REPT\Universal Unpacker Team-REPT.ico</img>
+      <loc>Tools\Unpacker\Universal Unpacker Team-REPT\Universal Unpacker Team-REPT.exe</loc>
+    </tool>
+
+
+    <!-- /////////////////////////// UPX -->
+
+
+    <tool>
+      <group>UPX</group>
+      <child_group>0</child_group>
+      <name>UPX</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\UPX\UPXUnpack.ico</img>
+      <loc>Tools\Unpacker\UPX\UPXUnpack.exe</loc>
+    </tool>
+
+
+    <!-- /////////////////////////// VMUnpacker V1.2 -->
+
+
+    <tool>
+      <group>VMUnpacker V1.2</group>
+      <child_group>0</child_group>
+      <name>VMUnpacker V1.2</name>
+      <tx></tx>
+      <img>Tools\icn\Unpacker\VMUnpacker V1.2\VMUnpacker.ico</img>
+      <loc>Tools\Unpacker\VMUnpacker V1.2\VMUnpacker.exe</loc>
+    </tool>
+
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Up -->
+
+    <tool>
+      <group>Up</group>
+      <child_group>0</child_group>
+      <name>rghost uploader</name>
+      <tx></tx>
+      <img>Tools\icn\Up\rghost_uploader.ico</img>
+      <loc>Tools\Up\RGHost_Uploader\rghost_uploader.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Up</group>
+      <child_group>0</child_group>
+      <name>Zippy Uploader</name>
+      <tx></tx>
+      <img>Tools\icn\Up\ZippyUploader.ico</img>
+      <loc>Tools\Up\Zippy_Uploader\ZippyUploader.exe</loc>
+    </tool>
+
+
+
+
+    <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////   Extra -->
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>CCTool</name>
+      <tx>Circuit's Cracker Tool</tx>
+      <img>Tools\icn\Extra\CCTool.ico</img>
+      <loc>Tools\Extra\Circuit's Cracker Tool\CCTool.exe</loc>
+    </tool>
+
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>ConfuserDelegateKiller</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\ConfuserDelegateKiller.ico</img>
+      <loc>Tools\Extra\ConfuserTools\ConfuserDelegateKiller.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>DotNetRenamer</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\DotNetRenamer.ico</img>
+      <loc>Tools\Extra\dotRenamer\DotNetRenamer.exe</loc>
+    </tool>
+    
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>MegaDumper</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\MegaDumper.ico</img>
+      <loc>Tools\Extra\dumper\MegaDumper\MegaDumper.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>ILProtector</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\ILProtector.ico</img>
+      <loc>Tools\Extra\ilProtector 2.0.14\ILProtector.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>ILSpy</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\ILSpy.ico</img>
+      <loc>Tools\Extra\ILSpy\ILSpy.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>ImportREC</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\ImportREC.ico</img>
+      <loc>Tools\Extra\ImpREC 1.7e\ImportREC.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>Netshrink</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\Netshrink.ico</img>
+      <loc>Tools\Extra\NetShrink 2.6\Netshrink.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>ProcessActivityView</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\ProcessActivityView.ico</img>
+      <loc>Tools\Extra\nirtools\ProcessActivityView.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>RegFromApp</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\RegFromApp.ico</img>
+      <loc>Tools\Extra\nirtools\RegFromApp.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>runasdate</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\runasdate.ico</img>
+      <loc>Tools\Extra\nirtools\runasdate.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>SND_RT</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\SND_RT.ico</img>
+      <loc>Tools\Extra\SnD Reverser Tool 1.4\SND_RT.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>DotNet String Obfuscator</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\DotNet String Obfuscator.ico</img>
+      <loc>Tools\Extra\String Obfustcator\DotNet String Obfuscator.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>StringDecryptor</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\StringDecryptor.ico</img>
+      <loc>Tools\Extra\stringdrypter\StringDecryptor.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>UniExtract</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\UniExtract.ico</img>
+      <loc>Tools\Extra\Universal Extractor\UniExtract.exe</loc>
+    </tool>
+
+    <tool>
+      <group>Extra</group>
+      <child_group>0</child_group>
+      <name>WindowHack</name>
+      <tx></tx>
+      <img>Tools\icn\Extra\WindowHack.ico</img>
+      <loc>Tools\Extra\Window Hack 3.0\WindowHack.exe</loc>
+    </tool>
+
+    
+  </tools>
